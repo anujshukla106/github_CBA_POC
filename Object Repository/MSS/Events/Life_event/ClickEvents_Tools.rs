@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ClickEvents_Tools</name>
+   <tag></tag>
+   <elementGuidId>d71978e7-c4ff-4107-8b9f-fb64469da6db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='side-nav-menu']/li/ul/li/a/div[contains(text(),'Events/Tools')]</value>
+   </webElementProperties>
+</WebElementEntity>
